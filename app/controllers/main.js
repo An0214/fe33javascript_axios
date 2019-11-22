@@ -1,6 +1,11 @@
 var nguoiDungService = new NguoiDungService();
 function themUser(){
+<<<<<<< HEAD
   console.log("Them nguoi dung lan 2"); 
+=======
+  console.log("Them nguoi dung");
+  
+>>>>>>> master
 }
 getListUser();
 
